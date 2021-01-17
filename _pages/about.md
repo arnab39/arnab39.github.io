@@ -14,4 +14,4 @@ Before moving to Montreal, I did my undergraduate studies in Electronics and Ele
 
 I have developed a passion for coding in the last two years. In general, I prefer to use python for my research work and C++ or java for competitive coding. Check out my Github account for code implementation of my research or papers relevant to my research. 
 
-When I am not working, I like to spend time in nature, stargaze with my close friends and talk about life. I love mountains and lakes and have been on a few Himalayan treks. Next on my list is Banff National Park.     
+When I am not working, I like to spend time in nature, stargaze with my close friends and talk about life. I love mountains and lakes and have been on a few Himalayan treks. Next on my list is Banff National Park.

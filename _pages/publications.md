@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if author.googlescholar %}  
 {% endif %}
+
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
@@ -31,6 +32,6 @@ Vineet Jain\*, **Arnab Mondal**\* , Kaleem Siddiqi
 Avisek Lahiri\*, Vineet Jain\*, **Arnab Mondal**\* , Prabir Kumar Biswas
 
 [Revisiting CycleGAN for semi-supervised segmentation](https://arxiv.org/abs/1908.11569)
-(arxiv 2019) 
-[Code](https://github.com/arnab39/Semi-supervised-segmentation-cycleGAN)\ 
+(arxiv 2019)
+[Code](https://github.com/arnab39/Semi-supervised-segmentation-cycleGAN)\
 **Arnab Mondal**, Aniket Agarwal , Jose Dolz, Christian Desrosiers

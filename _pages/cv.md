@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Dual degree (BTech + MTech) in Electronics and Electrical Communication Engineering, IIT Kharagpur, 2014-2019, GPA-9.33/10
+* Ph.D in Computer Science, Mcgill University, 2019-present, GPA-4.0/4.0
 
 Work experience
 ======

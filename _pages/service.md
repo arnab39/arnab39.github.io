@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Academic services
-  * Taught how to implement machine learning algorithms in python for COMP 599 by Prof. Siamak ([code](https://github.com/mravanba/comp551-notebooks))
+  * Taught how to implement machine learning algorithms in python for COMP 591 by Prof. Siamak ([code](https://github.com/mravanba/comp551-notebooks))
   * Teaching Assistant for the following graduate courses:
       * Probabilistic Graphical Models COMP 766
       * Artificial Intelligence COMP 424
-      * Applied Machine Learning COMP 599
+      * Applied Machine Learning COMP 591
   * Mila admissions committee 2020
   * Mentored undergraduate researchers from India
   * CVPR 2021 Reviewer

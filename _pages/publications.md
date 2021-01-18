@@ -36,8 +36,13 @@ Avisek Lahiri\*, Vineet Jain\*, **Arnab Mondal**\* , Prabir Kumar Biswas
 [Code](https://github.com/arnab39/Semi-supervised-segmentation-cycleGAN)\
 **Arnab Mondal**, Aniket Agarwal , Jose Dolz, Christian Desrosiers
 
-Other tecnical papers 
+Other technical papers 
 ======
 [Generalization and Data Efficiency in Deep Learning](http://arnab39.github.io/files/Generalization_and_Data_Efficiency_in_Deep_Learning.pdf)  
 **Arnab Mondal** 
 
+[Why Wasserstein distance is better for training GANs: A summary](http://arnab39.github.io/files/Wasserstein_distance_term_paper.pdf)  
+**Arnab Mondal**
+
+[Semi-supervised Semantic Segmentation: Different GAN based approaches](http://arnab39.github.io/files/Mtech_Thesis_Final_IITKgp.pdf) (Master's Thesis)  
+**Arnab Mondal**

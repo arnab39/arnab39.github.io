@@ -35,3 +35,9 @@ Avisek Lahiri\*, Vineet Jain\*, **Arnab Mondal**\* , Prabir Kumar Biswas
 (arxiv 2019)
 [Code](https://github.com/arnab39/Semi-supervised-segmentation-cycleGAN)\
 **Arnab Mondal**, Aniket Agarwal , Jose Dolz, Christian Desrosiers
+
+Other tecnical papers 
+======
+[Generalization and Data Efficiency in Deep Learning](http://arnab39.github.io/files/Generalization_and_Data_Efficiency_in_Deep_Learning.pdf)  
+**Arnab Mondal** 
+

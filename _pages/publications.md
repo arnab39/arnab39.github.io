@@ -12,8 +12,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 {% include base_path %}
 
-[Minibatch Graphs for Robust Classification and Generative Adversarial Learning](https://arxiv.org/abs/2007.03437)
-(under review for CVPR 2021)  
+[Minibatch Graphs for Robust Image Classification and Generative Adversarial Learning](https://arxiv.org/abs/2007.03437)
+(under review)  
 [Code](https://github.com/arnab39)\
 Vineet Jain\*, **Arnab Mondal**\* , Kaleem Siddiqi
 

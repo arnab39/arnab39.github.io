@@ -8,14 +8,14 @@ author_profile: true
 {% include base_path %}
 
 ## Academic service
+  * Member of Mila's admission review committee for 2020 and 2021.
+  * Reviewed for several machine learning conferences
   * Taught how to implement machine learning algorithms in python for COMP 591 by Prof. Siamak ([code](https://github.com/mravanba/comp551-notebooks))
   * Teaching Assistant for the following graduate courses:
       * Probabilistic Graphical Models COMP 766
       * Applied Machine Learning COMP 591
-  * Mila admissions committee 2020
   * Mentored undergraduate researchers from India
-  * CVPR 2021 Reviewer
-  * Taught SVM and Backpropagation in Deep Learning Winter School at IIT KGP organized by Prof. Mrigank
+  * Taught SVM and Backpropagation in Deep Learning Winter School at IIT KGP 
   * Taught and mentored undergraduate students in Robotics Winter Workshop at IIT KGP
 
 ##  Miscellaneous service

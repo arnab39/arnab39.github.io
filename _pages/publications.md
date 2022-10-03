@@ -13,20 +13,20 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 {% include base_path %}
 
 Equivariance with Learned Canonical Mappings
-(under review)
+(under review)\
 Oumar Kaba\*, **Arnab Mondal**\* , Yan Zhang, Yoshua Bengio, Siamak Ravanbakhsh
 
 [Structuring Representations using Geometric Invariant](https://nips.cc/Conferences/2022/Schedule?showEvent=52839)
-(NeuRIPS 2022)
+(NeuRIPS 2022)\
 Mehran Shakerinava\*, **Arnab Mondal**\* , Siamak Ravanbakhsh
 
 
 [Assessing representation quality in Self-Supervised Learning by measuring eigenspectrum decay](https://nips.cc/Conferences/2022/Schedule?showEvent=53893)
-(NeuRIPS 2022)
+(NeuRIPS 2022)\
 Kumar Krishna Agrawal\*, **Arnab Mondal**\* ,Arna Ghosh\*, Blake Richards
 
 EGVR-Net: Learning a Single Video Representation for Simultaneous Video Retrieval and Temporal Grounding
-(under review)
+(under review)\
 **Arnab Mondal** , Deepak Sridhar, Yanick Verdie, Chao Xing, Peng Dai, Juwei Lu
 
 

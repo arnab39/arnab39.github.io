@@ -33,7 +33,7 @@ EGVR-Net: Learning a Single Video Representation for Simultaneous Video Retrieva
 Oumar Kaba\*, **Arnab Mondal**\* , Yan Zhang, Yoshua Bengio, Siamak Ravanbakhsh
 
 [Hyperbolic Deep Reinforcement Learning for Continuous Control](https://openreview.net/forum?id=Mrz9PgP3sT)
-(ICLR 2023 Tiny paper track)
+(ICLR 2023 Tiny paper track)\
 Omar Salemohamed, Edoardo Cetin, Sai Rajeswar, **Arnab Kumar Mondal**
 
 [Structuring Representations using Geometric Invariant](https://nips.cc/Conferences/2022/Schedule?showEvent=52839)

@@ -13,15 +13,12 @@ You can also find these papers on [my Google Scholar profile](https://scholar.go
 {% include base_path %}
 
 HumMUSS: Human Motion understanding using State Space Models
-(Under Review)\
+(CVPR 2024)\
 **Arnab Mondal**, Denis Tome, Stefano Alletto
 
-EGVR-Net: Learning a Single Video Representation for Simultaneous Video Retrieval and Temporal Grounding
-(Under Review)\
-**Arnab Mondal** , Deepak Sridhar, Yanick Verdie, Juwei Lu
 
 [Efficient Dynamics Modeling in Interactive Environments with Koopman Theory](https://arxiv.org/abs/2306.11941)
-(EWRL 2023)\
+(ICLR 2024)\
 **Arnab Mondal**, Siba Smarak Panigrahi, Sai Rajeswar, Kaleem Siddiqi, Siamak Ravanbakhsh
 
 [Equivariant Adaptation of Large Pre-Trained Models](https://arxiv.org/abs/2310.01647)
@@ -85,7 +82,7 @@ Patents
 (US Patent)\
 **Arnab Mondal**, Deepak Sridhar, Niamul Quader, Juwei Lu, Dai Pen, Chao Xing 
 
-Other technical papers 
+Other technical articles 
 ======
 [Generalization and Data Efficiency in Deep Learning](http://arnab39.github.io/files/Generalization_and_Data_Efficiency_in_Deep_Learning.pdf)  
 **Arnab Mondal** 

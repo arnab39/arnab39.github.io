@@ -91,7 +91,7 @@ Thesis
 [Deep Reinforcement Learning using Structure and Symmetries of the World](http://arnab39.github.io/files/Phd_Thesis-Arnab.pdf) (PhD Thesis)\
 **Arnab Mondal**
 
-[Semi-supervised Semantic Segmentation: Different GAN based approaches](http://arnab39.github.io/files/Mtech_Thesis_Final_IITKgp.pdf) (Master's Thesis)\  
+[Semi-supervised Semantic Segmentation: Different GAN based approaches](http://arnab39.github.io/files/Mtech_Thesis_Final_IITKgp.pdf) (Master's Thesis)  
 **Arnab Mondal**
 
 Patents

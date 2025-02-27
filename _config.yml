@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arnab Mondal"
 title_separator          : "-"
 name                     : &name "Arnab Mondal"
-description              : &description "PhD candidate at Mcgill University and Mila"
+description              : &description "ML Researcher at Apple "
 url                      : https://arnab39.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arnab39.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Arnab Mondal"
   avatar           : "profile.png"
-  bio              : "PhD candidate at Mcgill University, Mila and CIM"
-  location         : "Montreal, Quebec"
+  bio              : "ML Researcher at Apple "
+  location         : "Sunnyvale, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NhWR4yIAAAAJ&hl=en"

@@ -12,10 +12,18 @@ You can also find these papers on [my Google Scholar profile](https://scholar.go
 
 {% include base_path %}
 
-HumMUSS: Human Motion understanding using State Space Models
+[Spectra: Surprising Effectiveness of Pretraining Ternary Language Models at Scale](https://openreview.net/forum?id=TJo6aQb7mK) (ICLR 2025)\
+Ayush Kaushal\*, Tejas Vaidhya\*, **Arnab Mondal**, Tejas Pandey, Aaryan Bhagat, Irina Rish
+
+[Symmetry-Aware Generative Modeling through Learned Canonicalization](https://openreview.net/forum?id=emQQupUb2n) (NeurIPS 2024 Workshop)\
+Kusha Sareen, Daniel Levy, **Arnab Mondal**, Oumar Kaba, Tara Akhound-Sadegh, Siamak Ravanbakhsh
+
+[HumMUSS: Human Motion understanding using State Space Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Mondal_HumMUSS_Human_Motion_Understanding_using_State_Space_Models_CVPR_2024_paper.pdf)
 (CVPR 2024)\
 **Arnab Mondal**, Denis Tome, Stefano Alletto
 
+[Improved canonicalization for model agnostic equivariance](https://arxiv.org/abs/2405.14089) (CVPR 2024 Workshop)\
+Siba Smarak Panigrahi, **Arnab Mondal**
 
 [Efficient Dynamics Modeling in Interactive Environments with Koopman Theory](https://arxiv.org/abs/2306.11941)
 (ICLR 2024)\
@@ -76,6 +84,16 @@ Avisek Lahiri\*, Vineet Jain\*, **Arnab Mondal**\* , Prabir Kumar Biswas
 
 \* denotes joint first author
 
+
+Thesis
+======
+
+[Deep Reinforcement Learning using Structure and Symmetries of the World](http://arnab39.github.io/files/Phd_Thesis-Arnab.pdf) (PhD Thesis)
+**Arnab Mondal**
+
+[Semi-supervised Semantic Segmentation: Different GAN based approaches](http://arnab39.github.io/files/Mtech_Thesis_Final_IITKgp.pdf) (Master's Thesis)  
+**Arnab Mondal**
+
 Patents
 ======
 [Systems and methods for video retrieval and grounding](https://patents.google.com/patent/US20230153352A1/en)
@@ -90,5 +108,4 @@ Other technical articles
 [Why Wasserstein distance is better for training GANs: A summary](http://arnab39.github.io/files/Wasserstein_distance_term_paper.pdf)  
 **Arnab Mondal**
 
-[Semi-supervised Semantic Segmentation: Different GAN based approaches](http://arnab39.github.io/files/Mtech_Thesis_Final_IITKgp.pdf) (Master's Thesis)  
-**Arnab Mondal**
+
